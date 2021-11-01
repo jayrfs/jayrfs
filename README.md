@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jayrfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayrfs&show_icons=true&theme=radical)
+![Jayrfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayrfs&show_icons=true&theme=radical&include_all_commits=TRUE)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayrfs&layout=compact&exclude_repo=jayrfs.github.io,Fun-surprise-text-input,Holy-Faucet-Of-Phone-Numbers,FakeCaptchacha,baduibattleslogin1&theme=radical)](https://github.com/jayrfs)
 
